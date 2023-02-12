@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\00_WORK\\02_PROGRAMMING\\Python\\Sleep Yawn Detecion\\models\\mouth\\model.tflearn"
+all_model_checkpoint_paths: "D:\\00_WORK\\02_PROGRAMMING\\Python\\Sleep Yawn Detecion\\models\\mouth\\model.tflearn"
